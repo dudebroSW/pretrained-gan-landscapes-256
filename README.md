@@ -1,15 +1,15 @@
 # Landscapes GAN - 256x256
-![Test]()
-![Test]()
-![Test]()
+![Test](https://github.com/ThisJustin-code/pretrained-gan-landscapes-256/blob/master/preview/909141.png)
+![Test](https://github.com/ThisJustin-code/pretrained-gan-landscapes-256/blob/master/preview/909320.png)
+![Test](https://github.com/ThisJustin-code/pretrained-gan-landscapes-256/blob/master/preview/909581.png)
 
-![Test]()
-![Test]()
-![Test]()
+![Test](https://github.com/ThisJustin-code/pretrained-gan-landscapes-256/blob/master/preview/909655.png)
+![Test](https://github.com/ThisJustin-code/pretrained-gan-landscapes-256/blob/master/preview/909654.png)
+![Test](https://github.com/ThisJustin-code/pretrained-gan-landscapes-256/blob/master/preview/909182.png)
 
-![Test]()
-![Test]()
-![Test]()
+![Test](https://github.com/ThisJustin-code/pretrained-gan-landscapes-256/blob/master/preview/909252.png)
+![Test](https://github.com/ThisJustin-code/pretrained-gan-landscapes-256/blob/master/preview/909116.png)
+![Test](https://github.com/ThisJustin-code/pretrained-gan-landscapes-256/blob/master/preview/909150.png)
 
 This is a GAN neural network I trained to generate photos of landscapes at 256x256 resolution. Preview photos are 
 available along with sample progression photos from the training process. StyleGAN2-ada-pytorch was used to train on my own custom 
@@ -25,9 +25,9 @@ landscapes.
 
 Links:
 
-* [Progression video of the training process on this data set]()
-* [Latent vector walk video #1]()
-* [Latent vector walk video #2]()
+* [Progression video of the training process on this data set](https://youtu.be/-Ov-SSFxrQ0)
+* [Latent vector walk video #1](https://youtu.be/EJpfjA1vU4M)
+* [Latent vector walk video #2](https://youtu.be/v37l-sQ1TXk)
 * [Download link to my own custom landscape dataset used for training]()
 * [Download link to the landscapes .pkl file]()
 
